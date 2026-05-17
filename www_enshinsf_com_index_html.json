@@ -1,0 +1,749 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/index.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:14:17.513Z",
+    "redirect_chain": [],
+    "status_code": null,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/index.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339657533,
+          "endTime": 1778339660555,
+          "duration": 3022
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660645,
+          "endTime": 1778339660645,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660645,
+          "endTime": 1778339660646,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660647,
+          "endTime": 1778339660647,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/index.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660650,
+          "endTime": 1778339660650,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660651,
+          "endTime": 1778339660652,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660653,
+          "endTime": 1778339660654,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660655,
+          "endTime": 1778339660655,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660655,
+          "endTime": 1778339660656,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660658,
+          "endTime": 1778339660662,
+          "duration": 4
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660663,
+          "endTime": 1778339660663,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660667,
+          "endTime": 1778339660667,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660671,
+          "endTime": 1778339660671,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660671,
+          "endTime": 1778339660671,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339660671,
+          "endTime": 1778339660672,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661637,
+          "endTime": 1778339661638,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661676,
+          "endTime": 1778339661677,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661677,
+          "endTime": 1778339661678,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661678,
+          "endTime": 1778339661678,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661678,
+          "endTime": 1778339661685,
+          "duration": 7
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661685,
+          "endTime": 1778339661685,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339680050,
+          "duration": 18364
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339701494,
+          "duration": 39808
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339664196,
+          "duration": 2510
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339662448,
+          "duration": 762
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+        "method": "GET",
+        "status": null,
+        "type": "image",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339685579,
+          "duration": 23893
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663934,
+          "duration": 2248
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663164,
+          "duration": 1478
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663768,
+          "duration": 2082
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663207,
+          "duration": 1521
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663206,
+          "duration": 1520
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/wowslider.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661686,
+          "endTime": 1778339663110,
+          "duration": 1424
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/script.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661687,
+          "endTime": 1778339664056,
+          "duration": 2369
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/sensei2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661687,
+          "endTime": 1778339705089,
+          "duration": 43402
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/mapthumb2.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661687,
+          "endTime": 1778339719145,
+          "duration": 57458
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/dojo2.jpg",
+        "method": "GET",
+        "status": null,
+        "type": "image",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/bullet.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339661687,
+          "endTime": 1778339663257,
+          "duration": 1570
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339664192,
+          "endTime": 1778339680301,
+          "duration": 16109
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/blkcot.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339664229,
+          "endTime": 1778339671076,
+          "duration": 6847
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ],
+    "aggregates": {
+      "total_requests": 40,
+      "by_type": {
+        "document": 1,
+        "stylesheet": 6,
+        "script": 3,
+        "image": 28,
+        "font": 2
+      },
+      "failed": 0,
+      "avg_response_time": 5660.15
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 139,
+    "max_depth": 11,
+    "script_counts": {
+      "inline": 0,
+      "external": 3,
+      "async": 0,
+      "defer": 0,
+      "blocking": 3
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "http://www.enshinsf.com/engine1/wowslider.js",
+      "http://www.enshinsf.com/engine1/script.js",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "https://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/index.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact WOWSlider.com 1 2 3 4 5 6 7 8 9 10 kids practicing at san francisco dojo WHAT IS ENSHIN KARATE? Enshin Karate is a style of Full Contact Karate founded in 1988 by Kancho Joko Ninomiya . The core emphasis in Enshin is use of the Sabaki Method, a system of techniques employed with the goal of turning an opponent's power and momentum against him or her. It lets one reposition oneself to counterattack from a more advantageous position. Although Enshin is a stand-up fighting style that includes kicks, strikes, and punches found in most other styles of karate, it also utilizes numerous grabs, sweeps, and throws often associated with Judo or other grappling styles of martial arts.\n Enshin Karate is a very effective method of self-defense for everyone especially women and children\nIt is is a great way to gain good physical health and strong mind. >>read more Sensei Location Schedule ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "WHAT IS ENSHIN KARATE?"
+      },
+      {
+        "level": "h3",
+        "text": "Sensei"
+      },
+      {
+        "level": "h3",
+        "text": "Location"
+      },
+      {
+        "level": "h3",
+        "text": "Schedule"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "contact",
+        "schedule",
+        "instructors"
+      ]
+    },
+    "hierarchy_summary": "    h3: WHAT IS ENSHIN KARATE?\n    h3: Sensei\n    h3: Location\n    h3: Schedule"
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "Sabaki Challenge San Francisco",
+      "surrounding_text": "Sabaki Challenge San Francisco Beginning ceremony of sf sabaki challenge",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "Enshin Karate SF",
+      "surrounding_text": "Enshin Karate SF winners of children's category Sabaki Challenge San Francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "performance at Cherry Blossom Festival San Francisco",
+      "surrounding_text": "performance at Cherry Blossom Festival San Francisco performance at Cherry Blossom Festival San Francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "Enshin Karate SF",
+      "surrounding_text": "Enshin Karate SF beginning ceremony & warm up at Sabaki Challenge San Francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "Enshin Karate SF",
+      "surrounding_text": "Enshin Karate SF kids practicing at san francisco dojo",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin6",
+      "surrounding_text": "enshin6 san francisco dojo belt test",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin7",
+      "surrounding_text": "enshin7 kids' demonstration at cherry blossom festival",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin8",
+      "surrounding_text": "enshin8 Sabaki challenge san francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin9",
+      "surrounding_text": "enshin9 fighters' training in san francisco dojo",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin10",
+      "surrounding_text": "enshin10 together at cherry blossom festival",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "Enshin Karate SF",
+      "surrounding_text": "Enshin Karate SF",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin2",
+      "surrounding_text": "enshin2",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin3",
+      "surrounding_text": "enshin3",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin4",
+      "surrounding_text": "enshin4",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin5",
+      "surrounding_text": "enshin5",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin6",
+      "surrounding_text": "enshin6",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin7",
+      "surrounding_text": "enshin7",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin8",
+      "surrounding_text": "enshin8",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin9",
+      "surrounding_text": "enshin9",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "enshin10",
+      "surrounding_text": "enshin10",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/sensei2.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/mapthumb2.png",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/dojo2.jpg",
+      "page_url": "http://www.enshinsf.com/index.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "icon"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

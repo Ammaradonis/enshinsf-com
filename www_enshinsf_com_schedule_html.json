@@ -1,0 +1,262 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/schedule.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:16:28.991Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/schedule.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339789012,
+          "endTime": 1778339789514,
+          "duration": 502
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789593,
+          "endTime": 1778339789593,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789593,
+          "endTime": 1778339789593,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789594,
+          "endTime": 1778339789594,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/schedule.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789594,
+          "endTime": 1778339789798,
+          "duration": 204
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789594,
+          "endTime": 1778339789594,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789594,
+          "endTime": 1778339789595,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789597,
+          "endTime": 1778339789597,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789598,
+          "endTime": 1778339789598,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789886,
+          "endTime": 1778339789887,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789892,
+          "endTime": 1778339789894,
+          "duration": 2
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789900,
+          "endTime": 1778339789901,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339789901,
+          "endTime": 1778339789901,
+          "duration": 0
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ],
+    "aggregates": {
+      "total_requests": 13,
+      "by_type": {
+        "document": 1,
+        "stylesheet": 6,
+        "script": 1,
+        "image": 3,
+        "font": 2
+      },
+      "failed": 0,
+      "avg_response_time": 54.69230769230769
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 60,
+    "max_depth": 10,
+    "script_counts": {
+      "inline": 0,
+      "external": 1,
+      "async": 0,
+      "defer": 0,
+      "blocking": 1
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "https://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/schedule.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact Enshin Karate Schedule Classes meet twice a week on Mondays and Fridays from 6:00pm-7:30pm. The dojo\nwill open up at 5:30pm and class will start promptly at 6:00pm. Both classes are for all ability levels, whether it is your first time, you've\ntrained in another martial art, or you're currently a student at the dojo. All\nclasses are mixed kids and adults. We ask that kids be at least ten years old.\nIf you're interested, we are happy to have you try out a class. The dojo is located at 2031 Bust St. between\nWebster and Buchanan. See our location page for a\nmap. Class Tuition You may either pay for each individual class you attend or you may pay once to\ncome to all of the classes that are offered in a given month. For beginners and\nstudents new to the dojo, the first two lessons are free! Monthly fee: $120 Per class: $35 Uniform / Light Weight Gi for kids: $60-80 Uniform / Heavy Weight Gi for adults: $110 If you have a family of three or more students you will receive a $60\ndiscount on monthly tuition. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Enshin Karate Schedule"
+      },
+      {
+        "level": "h3",
+        "text": "Class Tuition"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "schedule",
+        "pricing",
+        "contact"
+      ]
+    },
+    "hierarchy_summary": "    h3: Enshin Karate Schedule\n    h3: Class Tuition"
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/schedule.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

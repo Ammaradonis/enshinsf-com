@@ -1,0 +1,774 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/location.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:15:52.543Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/location.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339752552,
+          "endTime": 1778339752845,
+          "duration": 293
+        }
+      },
+      {
+        "url": "http://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752867,
+          "endTime": 1778339758098,
+          "duration": 5231
+        }
+      },
+      {
+        "url": "http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752868,
+          "endTime": 1778339758063,
+          "duration": 5195
+        }
+      },
+      {
+        "url": "http://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752869,
+          "endTime": 1778339758054,
+          "duration": 5185
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/location.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752874,
+          "endTime": 1778339753107,
+          "duration": 233
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752874,
+          "endTime": 1778339752874,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752875,
+          "endTime": 1778339752875,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752877,
+          "endTime": 1778339752881,
+          "duration": 4
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/building.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752883,
+          "endTime": 1778339758623,
+          "duration": 5740
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/buildinginside.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752886,
+          "endTime": 1778339758744,
+          "duration": 5858
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339752886,
+          "endTime": 1778339752887,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://maps.google.com/maps?hl=en&q=2013+Bush+Street,+San+Francisco,+CA&ie=UTF8&hq=&hnear=2013+Bush+St,+San+Francisco,+California+94115&t=m&z=14&ll=37.787243,-122.431636&output=embed",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339758153,
+          "endTime": 1778339759036,
+          "duration": 883
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339758182,
+          "endTime": 1778339758191,
+          "duration": 9
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339758197,
+          "endTime": 1778339758207,
+          "duration": 10
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339758239,
+          "endTime": 1778339758239,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339758240,
+          "endTime": 1778339759022,
+          "duration": 782
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/embed?origin=mfe&pb=!1m13!1m8!1m3!1d25224.953945204128!2d-122.431636!3d37.787243!3m2!1i1024!2i768!4f13.1!2m1!1s2013+Bush+Street,+San+Francisco,+CA!5e0!6i14!3m1!1sen!5m1!1sen",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339759038,
+          "endTime": 1778339764323,
+          "duration": 5285
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/maps-api-v3/embed/js/64/12d/init_embed.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339764440,
+          "endTime": 1778339770095,
+          "duration": 5655
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339764446,
+          "endTime": 1778339765739,
+          "duration": 1293
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339765759,
+          "endTime": 1778339766154,
+          "duration": 395
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/geometry.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339765760,
+          "endTime": 1778339766232,
+          "duration": 472
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/main.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339765767,
+          "endTime": 1778339770169,
+          "duration": 4402
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770500,
+          "endTime": 1778339771370,
+          "duration": 870
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770786,
+          "endTime": 1778339772324,
+          "duration": 1538
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770802,
+          "endTime": 1778339774553,
+          "duration": 3751
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770803,
+          "endTime": 1778339773221,
+          "duration": 2418
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770803,
+          "endTime": 1778339774509,
+          "duration": 3706
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770832,
+          "endTime": 1778339772438,
+          "duration": 1606
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339770832,
+          "endTime": 1778339773226,
+          "duration": 2394
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339774765,
+          "endTime": 1778339775662,
+          "duration": 897
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339774935,
+          "endTime": 1778339775668,
+          "duration": 733
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339774936,
+          "endTime": 1778339775684,
+          "duration": 748
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339775351,
+          "endTime": 1778339775737,
+          "duration": 386
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339775684,
+          "endTime": 1778339776754,
+          "duration": 1070
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339775791,
+          "endTime": 1778339776922,
+          "duration": 1131
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339775792,
+          "endTime": 1778339776887,
+          "duration": 1095
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetPlaceWidgetMetadata",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339776913,
+          "endTime": 1778339777177,
+          "duration": 264
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2620!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=80046",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777118,
+          "endTime": 1778339779208,
+          "duration": 2090
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2619!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=15518",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777133,
+          "endTime": 1778339778432,
+          "duration": 1299
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2619!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=31351",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777133,
+          "endTime": 1778339778951,
+          "duration": 1818
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2620!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=95879",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777133,
+          "endTime": 1778339777491,
+          "duration": 358
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2621!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=3862",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777134,
+          "endTime": 1778339777938,
+          "duration": 804
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2621!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=119100",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777134,
+          "endTime": 1778339779468,
+          "duration": 2334
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2618!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=107535",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777134,
+          "endTime": 1778339778784,
+          "duration": 1650
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2618!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=123368",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777134,
+          "endTime": 1778339777724,
+          "duration": 590
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m4!1m3!1i14!2i2618!3i6331!1m4!1m3!1i14!2i2619!3i6331!1m4!1m3!1i14!2i2618!3i6332!1m4!1m3!1i14!2i2619!3i6332!1m4!1m3!1i14!2i2620!3i6331!1m4!1m3!1i14!2i2621!3i6331!1m4!1m3!1i14!2i2620!3i6332!1m4!1m3!1i14!2i2621!3i6332!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e3!12m2!5b1!6b1!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=114418",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777154,
+          "endTime": 1778339779708,
+          "duration": 2554
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777267,
+          "endTime": 1778339779742,
+          "duration": 2475
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339777267,
+          "endTime": 1778339780329,
+          "duration": 3062
+        }
+      },
+      {
+        "url": "https://places.googleapis.com/$rpc/google.maps.places.v1.Places/GetPlace",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339780342,
+          "endTime": 1778339781166,
+          "duration": 824
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339781087,
+          "endTime": 1778339781226,
+          "duration": 139
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i11!2i327!3i791!4i256!2m1!1e1!3m12!2sen!3sUS!5e289!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i47083502&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=49890",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339781107,
+          "endTime": 1778339781597,
+          "duration": 490
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjsw.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339781200,
+          "endTime": 1778339781679,
+          "duration": 479
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/l/font?kit=5aUu9-KzpRiLCAt4Unrc-xIKmCU5mE1kgo3FI_E8lH570oBdIw&skey=b20c8ebc9802c116&v=v25",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339781200,
+          "endTime": 1778339781612,
+          "duration": 412
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2jg.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339781612,
+          "endTime": 1778339782683,
+          "duration": 1071
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "maps.google.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "maps.gstatic.com",
+      "maps.googleapis.com",
+      "places.googleapis.com"
+    ],
+    "aggregates": {
+      "total_requests": 54,
+      "by_type": {
+        "document": 3,
+        "stylesheet": 8,
+        "script": 15,
+        "image": 15,
+        "font": 6,
+        "xhr": 7
+      },
+      "failed": 0,
+      "avg_response_time": 1703.3703703703704
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 52,
+    "max_depth": 9,
+    "script_counts": {
+      "inline": 0,
+      "external": 1,
+      "async": 0,
+      "defer": 0,
+      "blocking": 1
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "http://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "http://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/location.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact Enshin Karate San Francisco Dojo Location Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building. �Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Enshin Karate San Francisco Dojo Location"
+      },
+      {
+        "level": "h3",
+        "text": "Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building."
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "contact",
+      "secondary": [
+        "programs",
+        "schedule",
+        "home"
+      ]
+    },
+    "hierarchy_summary": "    h3: Enshin Karate San Francisco Dojo Location\n    h3: Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building."
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/location.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/building.jpg",
+      "page_url": "http://www.enshinsf.com/location.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/buildinginside.jpg",
+      "page_url": "http://www.enshinsf.com/location.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

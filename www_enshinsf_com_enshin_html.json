@@ -1,0 +1,300 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/enshin.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:15:21.743Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/enshin.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339721754,
+          "endTime": 1778339740441,
+          "duration": 18687
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740883,
+          "endTime": 1778339740901,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740904,
+          "endTime": 1778339740904,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740904,
+          "endTime": 1778339740921,
+          "duration": 17
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/enshin.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740922,
+          "endTime": 1778339743331,
+          "duration": 2409
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740935,
+          "endTime": 1778339740936,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740937,
+          "endTime": 1778339740959,
+          "duration": 22
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740961,
+          "endTime": 1778339740961,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/ninomiya.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740962,
+          "endTime": 1778339743512,
+          "duration": 2550
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339740962,
+          "endTime": 1778339740986,
+          "duration": 24
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/mike1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339741208,
+          "endTime": 1778339743634,
+          "duration": 2426
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339743396,
+          "endTime": 1778339743401,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339743401,
+          "endTime": 1778339743401,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339743402,
+          "endTime": 1778339743402,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339743402,
+          "endTime": 1778339743402,
+          "duration": 0
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ],
+    "aggregates": {
+      "total_requests": 15,
+      "by_type": {
+        "document": 1,
+        "stylesheet": 6,
+        "script": 1,
+        "image": 5,
+        "font": 2
+      },
+      "failed": 0,
+      "avg_response_time": 1743.9333333333334
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 60,
+    "max_depth": 9,
+    "script_counts": {
+      "inline": 0,
+      "external": 1,
+      "async": 0,
+      "defer": 0,
+      "blocking": 1
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "https://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/enshin.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact What is Enshin Karate? Kancho Joko Ninomiya The name ENSHIN is derived from two Japanese words: \"en\" meaning 'open or unfinished circle' and \"shin\" meaning 'heart' or 'inner.' The combination of these two words and their meanings embody the most important aspects of Enshin Karate.\nFor me, above all else, the 'inner circle' of Enshin Karate represents the strong bonds that keep us together. The strength of this organization depends on the ability of each of us to listen to our hearts, and to relate to others through it.\nThe circle is the essence of the strategy and movement in Enshin Karate. The infinite points on a circle represent the unlimited positions we move to and counter from in meeting an opponent. This circular movement that takes one out of a line of attack and into a position from which he can counter attack is the basis for Enshin Karate technique.\nThe Enshin circle is an open circle. It is not complete, although it strives to be. It represents the idea that our challenge is never finished, although we are always working towards making it so. This unfinished state is a source of motivation and it reminds us that perfection is to be aimed for even if it cannot be achieved.\nThe middle ring in our logo represents the cycle that is the essence of our training as well as life. In training we begin as a white belt, and move through the darkening belts before becoming a black belt. When we achieve the black belt we begin anew. So, too, in life. Each goal we reach marks a new beginning.\nThe Enshin Karate-do is not the only Way. But I believe very strongly in it. It is my wish to offer Enshin Karate to anyone whose heart and mind believes with me in this Way. Then, together, we can all work to finish the circle. Grandmaster Kancho Joko Ninomiya Mike Lipyansky SF Dojo Instructor '03 Sabaki World Champion '01 All Japan Champion\" Long before Kancho Ninomiya arrived in the United States in 1974, he had a dream. From the days in his youth when he first began training, Ninomiya wanted to bring the spirit and technique of real karate to this country. After devoting himself for many years to reaching the top in competitive karate, Ninomiya won the All-Japan Tournament in 1978. As one of Japan's most popular champions, he realized that his life in karate was leading him beyond the mat of tournament competition. He returned to the U.S. and rededicated himself to his art, developing and teaching the strategy and technique he believed in. In 1988, Ninomiya started his own style, Enshin Karate. In an effort to bring authentic fighting karate to the United States, Ninomiya established the Sabaki Challenge, which has become this country's premier karate-tournament. Because he felt that his training for the All-Japan helped him grow stronger both physically and mentally, Ninomiya wants to offer this opportunity to martial artists of all ages. Today Kancho Ninomiya is the Grandmaster of Enshin Karate and its growing network of schools throughout the United States and the world. He feels a strong personal commitment to maintaining a close organization and offering his logical, practical system of karate to anyone who is interested in what it has to offer. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "What is Enshin Karate?"
+      },
+      {
+        "level": "h3",
+        "text": "Grandmaster Kancho Joko Ninomiya"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "contact",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "    h3: What is Enshin Karate?\n    h3: Grandmaster Kancho Joko Ninomiya"
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/enshin.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/ninomiya.jpg",
+      "page_url": "http://www.enshinsf.com/enshin.html",
+      "alt": "",
+      "surrounding_text": "Kancho Joko Ninomiya",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/mike1.jpg",
+      "page_url": "http://www.enshinsf.com/enshin.html",
+      "alt": "",
+      "surrounding_text": "Mike LipyanskySF Dojo Instructor'03 Sabaki World Champion'01 All Japan Champion\"",
+      "inferred_purpose": "instructor_photo"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

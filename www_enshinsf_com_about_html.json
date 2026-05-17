@@ -1,0 +1,745 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/about.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:16:45.858Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/about.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339805866,
+          "endTime": 1778339806764,
+          "duration": 898
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806827,
+          "endTime": 1778339806827,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806832,
+          "endTime": 1778339806833,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806833,
+          "endTime": 1778339806833,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/about.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806833,
+          "endTime": 1778339807002,
+          "duration": 169
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806833,
+          "endTime": 1778339806833,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806833,
+          "endTime": 1778339806833,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806833,
+          "endTime": 1778339806834,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/aboutsensei.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806834,
+          "endTime": 1778339807108,
+          "duration": 274
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339806834,
+          "endTime": 1778339806834,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/kZTaw--6IQ4",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339807103,
+          "endTime": 1778339808544,
+          "duration": 1441
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339807118,
+          "endTime": 1778339807118,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339807124,
+          "endTime": 1778339807125,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339807131,
+          "endTime": 1778339807132,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339807132,
+          "endTime": 1778339807132,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/NkQ8r4jGdCg",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339807136,
+          "endTime": 1778339810825,
+          "duration": 3689
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339808574,
+          "endTime": 1778339811059,
+          "duration": 2485
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339808576,
+          "endTime": 1778339812220,
+          "duration": 3644
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339808581,
+          "endTime": 1778339816068,
+          "duration": 7487
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339808581,
+          "endTime": 1778339816368,
+          "duration": 7787
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339809490,
+          "endTime": 1778339815232,
+          "duration": 5742
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339809491,
+          "endTime": 1778339823162,
+          "duration": 13671
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810856,
+          "endTime": 1778339811065,
+          "duration": 209
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810857,
+          "endTime": 1778339812222,
+          "duration": 1365
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810857,
+          "endTime": 1778339815298,
+          "duration": 4441
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810857,
+          "endTime": 1778339823277,
+          "duration": 12420
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810858,
+          "endTime": 1778339816083,
+          "duration": 5225
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339810859,
+          "endTime": 1778339816406,
+          "duration": 5547
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339817472,
+          "endTime": 1778339818270,
+          "duration": 798
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339817493,
+          "endTime": 1778339818309,
+          "duration": 816
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823440,
+          "endTime": 1778339824120,
+          "duration": 680
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823440,
+          "endTime": 1778339824097,
+          "duration": 657
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823440,
+          "endTime": 1778339827767,
+          "duration": 4327
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823524,
+          "endTime": 1778339824224,
+          "duration": 700
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823524,
+          "endTime": 1778339824140,
+          "duration": 616
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339823531,
+          "endTime": 1778339827799,
+          "duration": 4268
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339824121,
+          "endTime": 1778339824279,
+          "duration": 158
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/dQfaJ02dFTmUn8lxeuLo0cdQCX95ouq_O2IH7MdXPXk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339824155,
+          "endTime": 1778339827496,
+          "duration": 3341
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/dQfaJ02dFTmUn8lxeuLo0cdQCX95ouq_O2IH7MdXPXk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339824196,
+          "endTime": 1778339827501,
+          "duration": 3305
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339824224,
+          "endTime": 1778339825004,
+          "duration": 780
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339826175,
+          "endTime": 1778339827629,
+          "duration": 1454
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339826200,
+          "endTime": 1778339827631,
+          "duration": 1431
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/kZTaw--6IQ4/sddefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828310,
+          "endTime": 1778339829409,
+          "duration": 1099
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828355,
+          "endTime": 1778339829658,
+          "duration": 1303
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NkQ8r4jGdCg/sddefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828631,
+          "endTime": 1778339829788,
+          "duration": 1157
+        }
+      },
+      {
+        "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828632,
+          "endTime": 1778339829788,
+          "duration": 1156
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/wXwc0q-ZdZnWIMNP_hY18X_xp4tSttxtRX6RLSeMVyEfbpQ0j64kpl_P8moo1RiXxe7SmXmyCg=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828697,
+          "endTime": 1778339830493,
+          "duration": 1796
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/wXwc0q-ZdZnWIMNP_hY18X_xp4tSttxtRX6RLSeMVyEfbpQ0j64kpl_P8moo1RiXxe7SmXmyCg=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339828698,
+          "endTime": 1778339830506,
+          "duration": 1808
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?FNTVPA",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339829945,
+          "endTime": 1778339830199,
+          "duration": 254
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?3G4gxQ",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339829972,
+          "endTime": 1778339830201,
+          "duration": 229
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339830376,
+          "endTime": 1778339830725,
+          "duration": 349
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339830460,
+          "endTime": 1778339830754,
+          "duration": 294
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "www.youtube.com",
+      "fonts.gstatic.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "www.google.com",
+      "i.ytimg.com",
+      "www.gstatic.com",
+      "yt3.ggpht.com",
+      "jnn-pa.googleapis.com"
+    ],
+    "aggregates": {
+      "total_requests": 52,
+      "by_type": {
+        "document": 3,
+        "stylesheet": 10,
+        "script": 11,
+        "image": 10,
+        "font": 6,
+        "xhr": 10,
+        "fetch": 2
+      },
+      "failed": 0,
+      "avg_response_time": 2101.423076923077
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 52,
+    "max_depth": 9,
+    "script_counts": {
+      "inline": 0,
+      "external": 1,
+      "async": 0,
+      "defer": 0,
+      "blocking": 1
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "https://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/about.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact About Sensei Naohiro Tomiyama Sensei is the 1992 Enshin Karate World Champion with over 40 years martial arts experience of Kendo, Judo and Karate. his martial arts experience began as early as age 6 years old.\n      For six years he studied Kendo(Japanese sword fencing). He then turned his efforts to Kyokushin Karate in the 1981. After graduating from Kokushikan University in Japan, Sensei Tomiyama traveled to America to train with our Grand Master Kancho\nNinomiya(1978 All Japan Karate Champion) in 1991. Following his training under Kancho as an Uchideshi(personal student) he challenged\nthe 1992 World Sabaki Tournament and won the title of World Champion. He then traveled back to Japan where he became the Chief Instructor for the Tokyo branch of\nEnshin Dojo(1993-1997). after producing three Japanese Champions, he decided to come to San Francisco to open the San Francisco Enshin\nDojo. Since then, he has been leading his students with highly sophisticated teaching methods and warm heart. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "About Sensei Naohiro Tomiyama"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "contact",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "    h3: About Sensei Naohiro Tomiyama"
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/about.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/aboutsensei.jpg",
+      "page_url": "http://www.enshinsf.com/about.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [
+      "YouTube Embed"
+    ],
+    "other": []
+  }
+}

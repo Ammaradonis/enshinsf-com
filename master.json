@@ -1,0 +1,4410 @@
+{
+  "metadata": {
+    "scrape_date": "2026-05-09T15:17:17.290Z",
+    "seed_url": "http://www.enshinsf.com/",
+    "domain": "www.enshinsf.com",
+    "total_pages_crawled": 7,
+    "crawl_duration_seconds": 246,
+    "scraper_version": "1.0.0",
+    "configuration": {
+      "max_pages": 100,
+      "max_depth": 10,
+      "concurrency": 5,
+      "stabilization_delay": 2500,
+      "scroll_page": true,
+      "spa_discovery": true
+    }
+  },
+  "site_overview": {
+    "domain": "www.enshinsf.com",
+    "total_pages": 7,
+    "page_types": {
+      "programs": 6,
+      "contact": 1
+    },
+    "frameworks_used": [
+      "jQuery"
+    ],
+    "third_party_integrations": {
+      "analytics": [],
+      "booking": [],
+      "payment": [],
+      "chat": [],
+      "social": [
+        "YouTube Embed"
+      ]
+    },
+    "total_images": 58,
+    "total_network_requests": 228
+  },
+  "pages": [
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:13:12.119Z",
+        "redirect_chain": [],
+        "status_code": null,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339592230,
+              "endTime": 1778339592978,
+              "duration": 748
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593075,
+              "endTime": 1778339595296,
+              "duration": 2221
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593087,
+              "endTime": 1778339595318,
+              "duration": 2231
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593087,
+              "endTime": 1778339595320,
+              "duration": 2233
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/index.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593088,
+              "endTime": 1778339595056,
+              "duration": 1968
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593088,
+              "endTime": 1778339593352,
+              "duration": 264
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593088,
+              "endTime": 1778339594480,
+              "duration": 1392
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593088,
+              "endTime": 1778339593746,
+              "duration": 658
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593088,
+              "endTime": 1778339594495,
+              "duration": 1407
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593089,
+              "endTime": 1778339598843,
+              "duration": 5754
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593089,
+              "endTime": 1778339598532,
+              "duration": 5443
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593089,
+              "endTime": 1778339598906,
+              "duration": 5817
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593090,
+              "endTime": 1778339643503,
+              "duration": 50413
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593090,
+              "endTime": 1778339629899,
+              "duration": 36809
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593090,
+              "endTime": 1778339613512,
+              "duration": 20422
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593091,
+              "endTime": 1778339643408,
+              "duration": 50317
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593091,
+              "endTime": 1778339622275,
+              "duration": 29184
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593091,
+              "endTime": 1778339638825,
+              "duration": 45734
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593091,
+              "endTime": 1778339613321,
+              "duration": 20230
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593091,
+              "endTime": 1778339611556,
+              "duration": 18465
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/wowslider.js",
+            "method": "GET",
+            "status": 0,
+            "type": "script",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/script.js",
+            "method": "GET",
+            "status": 0,
+            "type": "script",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/images/sensei2.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/images/mapthumb2.png",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/images/dojo2.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339593368,
+              "endTime": 1778339595287,
+              "duration": 1919
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339597311,
+              "endTime": 1778339600325,
+              "duration": 3014
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339597317,
+              "endTime": 1778339599674,
+              "duration": 2357
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/bullet.png",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339597317,
+              "endTime": 1778339608047,
+              "duration": 10730
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "fonts.gstatic.com"
+        ],
+        "aggregates": {
+          "total_requests": 38,
+          "by_type": {
+            "document": 1,
+            "stylesheet": 6,
+            "script": 3,
+            "image": 27,
+            "font": 1
+          },
+          "failed": 0,
+          "avg_response_time": 8413.947368421053
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 82,
+        "max_depth": 9,
+        "script_counts": {
+          "inline": 0,
+          "external": 2,
+          "async": 0,
+          "defer": 0,
+          "blocking": 2
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "http://www.enshinsf.com/engine1/wowslider.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/index.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact 1 2 3 4 5 6 7 8 9 10",
+        "headings": [],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "contact",
+            "schedule",
+            "home"
+          ]
+        },
+        "hierarchy_summary": "No headings found"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "Sabaki Challenge San Francisco",
+          "surrounding_text": "Sabaki Challenge San Francisco Beginning ceremony of sf sabaki challenge",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF winners of children's category Sabaki Challenge San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "performance at Cherry Blossom Festival San Francisco",
+          "surrounding_text": "performance at Cherry Blossom Festival San Francisco performance at Cherry Blossom Festival San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF beginning ceremony & warm up at Sabaki Challenge San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF kids practicing at san francisco dojo",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin6",
+          "surrounding_text": "enshin6 san francisco dojo belt test",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin7",
+          "surrounding_text": "enshin7 kids' demonstration at cherry blossom festival",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin8",
+          "surrounding_text": "enshin8 Sabaki challenge san francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin9",
+          "surrounding_text": "enshin9 fighters' training in san francisco dojo",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin10",
+          "surrounding_text": "enshin10 together at cherry blossom festival",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF 1",
+          "inferred_purpose": "icon"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin2",
+          "surrounding_text": "enshin2 2",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin3",
+          "surrounding_text": "enshin3 3",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin4",
+          "surrounding_text": "enshin4 4",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin5",
+          "surrounding_text": "enshin5 5",
+          "inferred_purpose": "icon"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin6",
+          "surrounding_text": "enshin6 6",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin7",
+          "surrounding_text": "enshin7 7",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin8",
+          "surrounding_text": "enshin8 8",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin9",
+          "surrounding_text": "enshin9 9",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+          "page_url": "http://www.enshinsf.com/",
+          "alt": "enshin10",
+          "surrounding_text": "enshin10 10",
+          "inferred_purpose": "hero"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/index.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:14:17.513Z",
+        "redirect_chain": [],
+        "status_code": null,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/index.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339657533,
+              "endTime": 1778339660555,
+              "duration": 3022
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660645,
+              "endTime": 1778339660645,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660645,
+              "endTime": 1778339660646,
+              "duration": 1
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660647,
+              "endTime": 1778339660647,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/index.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660650,
+              "endTime": 1778339660650,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660651,
+              "endTime": 1778339660652,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660653,
+              "endTime": 1778339660654,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660655,
+              "endTime": 1778339660655,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660655,
+              "endTime": 1778339660656,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660658,
+              "endTime": 1778339660662,
+              "duration": 4
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660663,
+              "endTime": 1778339660663,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660667,
+              "endTime": 1778339660667,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660671,
+              "endTime": 1778339660671,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660671,
+              "endTime": 1778339660671,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339660671,
+              "endTime": 1778339660672,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661637,
+              "endTime": 1778339661638,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661676,
+              "endTime": 1778339661677,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661677,
+              "endTime": 1778339661678,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661678,
+              "endTime": 1778339661678,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661678,
+              "endTime": 1778339661685,
+              "duration": 7
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661685,
+              "endTime": 1778339661685,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339680050,
+              "duration": 18364
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339701494,
+              "duration": 39808
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339664196,
+              "duration": 2510
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339662448,
+              "duration": 762
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+            "method": "GET",
+            "status": 0,
+            "type": "image",
+            "initiator": "failed: net::ERR_ABORTED",
+            "timing": null
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339685579,
+              "duration": 23893
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663934,
+              "duration": 2248
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663164,
+              "duration": 1478
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663768,
+              "duration": 2082
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663207,
+              "duration": 1521
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663206,
+              "duration": 1520
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/wowslider.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661686,
+              "endTime": 1778339663110,
+              "duration": 1424
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/script.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661687,
+              "endTime": 1778339664056,
+              "duration": 2369
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/sensei2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661687,
+              "endTime": 1778339705089,
+              "duration": 43402
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/mapthumb2.png",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661687,
+              "endTime": 1778339719145,
+              "duration": 57458
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/dojo2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661687,
+              "endTime": 1778339740642,
+              "duration": 78955
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/bullet.png",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339661687,
+              "endTime": 1778339663257,
+              "duration": 1570
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339664192,
+              "endTime": 1778339680301,
+              "duration": 16109
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/blkcot.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339664229,
+              "endTime": 1778339671076,
+              "duration": 6847
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "fonts.gstatic.com"
+        ],
+        "aggregates": {
+          "total_requests": 40,
+          "by_type": {
+            "document": 1,
+            "stylesheet": 6,
+            "script": 3,
+            "image": 28,
+            "font": 2
+          },
+          "failed": 0,
+          "avg_response_time": 5660.15
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 139,
+        "max_depth": 11,
+        "script_counts": {
+          "inline": 0,
+          "external": 3,
+          "async": 0,
+          "defer": 0,
+          "blocking": 3
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "http://www.enshinsf.com/engine1/wowslider.js",
+          "http://www.enshinsf.com/engine1/script.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/index.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact WOWSlider.com 1 2 3 4 5 6 7 8 9 10 kids practicing at san francisco dojo WHAT IS ENSHIN KARATE? Enshin Karate is a style of Full Contact Karate founded in 1988 by Kancho Joko Ninomiya . The core emphasis in Enshin is use of the Sabaki Method, a system of techniques employed with the goal of turning an opponent's power and momentum against him or her. It lets one reposition oneself to counterattack from a more advantageous position. Although Enshin is a stand-up fighting style that includes kicks, strikes, and punches found in most other styles of karate, it also utilizes numerous grabs, sweeps, and throws often associated with Judo or other grappling styles of martial arts.\n Enshin Karate is a very effective method of self-defense for everyone especially women and children\nIt is is a great way to gain good physical health and strong mind. >>read more Sensei Location Schedule ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "WHAT IS ENSHIN KARATE?"
+          },
+          {
+            "level": "h3",
+            "text": "Sensei"
+          },
+          {
+            "level": "h3",
+            "text": "Location"
+          },
+          {
+            "level": "h3",
+            "text": "Schedule"
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "contact",
+            "schedule",
+            "instructors"
+          ]
+        },
+        "hierarchy_summary": "    h3: WHAT IS ENSHIN KARATE?\n    h3: Sensei\n    h3: Location\n    h3: Schedule"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "Sabaki Challenge San Francisco",
+          "surrounding_text": "Sabaki Challenge San Francisco Beginning ceremony of sf sabaki challenge",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF winners of children's category Sabaki Challenge San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "performance at Cherry Blossom Festival San Francisco",
+          "surrounding_text": "performance at Cherry Blossom Festival San Francisco performance at Cherry Blossom Festival San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF beginning ceremony & warm up at Sabaki Challenge San Francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF kids practicing at san francisco dojo",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin6",
+          "surrounding_text": "enshin6 san francisco dojo belt test",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin7",
+          "surrounding_text": "enshin7 kids' demonstration at cherry blossom festival",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin8",
+          "surrounding_text": "enshin8 Sabaki challenge san francisco",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin9",
+          "surrounding_text": "enshin9 fighters' training in san francisco dojo",
+          "inferred_purpose": "icon"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin10",
+          "surrounding_text": "enshin10 together at cherry blossom festival",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "Enshin Karate SF",
+          "surrounding_text": "Enshin Karate SF",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin2",
+          "surrounding_text": "enshin2",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin3",
+          "surrounding_text": "enshin3",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin4",
+          "surrounding_text": "enshin4",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin5",
+          "surrounding_text": "enshin5",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin6",
+          "surrounding_text": "enshin6",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin7",
+          "surrounding_text": "enshin7",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin8",
+          "surrounding_text": "enshin8",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin9",
+          "surrounding_text": "enshin9",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "enshin10",
+          "surrounding_text": "enshin10",
+          "inferred_purpose": "hero"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/sensei2.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/mapthumb2.png",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "icon"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/dojo2.jpg",
+          "page_url": "http://www.enshinsf.com/index.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "icon"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/enshin.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:15:21.743Z",
+        "redirect_chain": [],
+        "status_code": 200,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/enshin.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339721754,
+              "endTime": 1778339740441,
+              "duration": 18687
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740883,
+              "endTime": 1778339740901,
+              "duration": 18
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740904,
+              "endTime": 1778339740904,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740904,
+              "endTime": 1778339740921,
+              "duration": 17
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/enshin.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740922,
+              "endTime": 1778339743331,
+              "duration": 2409
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740935,
+              "endTime": 1778339740936,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740937,
+              "endTime": 1778339740959,
+              "duration": 22
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740961,
+              "endTime": 1778339740961,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/ninomiya.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740962,
+              "endTime": 1778339743512,
+              "duration": 2550
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339740962,
+              "endTime": 1778339740986,
+              "duration": 24
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/mike1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339741208,
+              "endTime": 1778339743634,
+              "duration": 2426
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339743396,
+              "endTime": 1778339743401,
+              "duration": 5
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339743401,
+              "endTime": 1778339743401,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339743402,
+              "endTime": 1778339743402,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339743402,
+              "endTime": 1778339743402,
+              "duration": 0
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "fonts.gstatic.com"
+        ],
+        "aggregates": {
+          "total_requests": 15,
+          "by_type": {
+            "document": 1,
+            "stylesheet": 6,
+            "script": 1,
+            "image": 5,
+            "font": 2
+          },
+          "failed": 0,
+          "avg_response_time": 1743.9333333333334
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 60,
+        "max_depth": 9,
+        "script_counts": {
+          "inline": 0,
+          "external": 1,
+          "async": 0,
+          "defer": 0,
+          "blocking": 1
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/enshin.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact What is Enshin Karate? Kancho Joko Ninomiya The name ENSHIN is derived from two Japanese words: \"en\" meaning 'open or unfinished circle' and \"shin\" meaning 'heart' or 'inner.' The combination of these two words and their meanings embody the most important aspects of Enshin Karate.\nFor me, above all else, the 'inner circle' of Enshin Karate represents the strong bonds that keep us together. The strength of this organization depends on the ability of each of us to listen to our hearts, and to relate to others through it.\nThe circle is the essence of the strategy and movement in Enshin Karate. The infinite points on a circle represent the unlimited positions we move to and counter from in meeting an opponent. This circular movement that takes one out of a line of attack and into a position from which he can counter attack is the basis for Enshin Karate technique.\nThe Enshin circle is an open circle. It is not complete, although it strives to be. It represents the idea that our challenge is never finished, although we are always working towards making it so. This unfinished state is a source of motivation and it reminds us that perfection is to be aimed for even if it cannot be achieved.\nThe middle ring in our logo represents the cycle that is the essence of our training as well as life. In training we begin as a white belt, and move through the darkening belts before becoming a black belt. When we achieve the black belt we begin anew. So, too, in life. Each goal we reach marks a new beginning.\nThe Enshin Karate-do is not the only Way. But I believe very strongly in it. It is my wish to offer Enshin Karate to anyone whose heart and mind believes with me in this Way. Then, together, we can all work to finish the circle. Grandmaster Kancho Joko Ninomiya Mike Lipyansky SF Dojo Instructor '03 Sabaki World Champion '01 All Japan Champion\" Long before Kancho Ninomiya arrived in the United States in 1974, he had a dream. From the days in his youth when he first began training, Ninomiya wanted to bring the spirit and technique of real karate to this country. After devoting himself for many years to reaching the top in competitive karate, Ninomiya won the All-Japan Tournament in 1978. As one of Japan's most popular champions, he realized that his life in karate was leading him beyond the mat of tournament competition. He returned to the U.S. and rededicated himself to his art, developing and teaching the strategy and technique he believed in. In 1988, Ninomiya started his own style, Enshin Karate. In an effort to bring authentic fighting karate to the United States, Ninomiya established the Sabaki Challenge, which has become this country's premier karate-tournament. Because he felt that his training for the All-Japan helped him grow stronger both physically and mentally, Ninomiya wants to offer this opportunity to martial artists of all ages. Today Kancho Ninomiya is the Grandmaster of Enshin Karate and its growing network of schools throughout the United States and the world. He feels a strong personal commitment to maintaining a close organization and offering his logical, practical system of karate to anyone who is interested in what it has to offer. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "What is Enshin Karate?"
+          },
+          {
+            "level": "h3",
+            "text": "Grandmaster Kancho Joko Ninomiya"
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "instructors",
+            "contact",
+            "schedule"
+          ]
+        },
+        "hierarchy_summary": "    h3: What is Enshin Karate?\n    h3: Grandmaster Kancho Joko Ninomiya"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/enshin.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/ninomiya.jpg",
+          "page_url": "http://www.enshinsf.com/enshin.html",
+          "alt": "",
+          "surrounding_text": "Kancho Joko Ninomiya",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/mike1.jpg",
+          "page_url": "http://www.enshinsf.com/enshin.html",
+          "alt": "",
+          "surrounding_text": "Mike LipyanskySF Dojo Instructor'03 Sabaki World Champion'01 All Japan Champion\"",
+          "inferred_purpose": "instructor_photo"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/location.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:15:52.543Z",
+        "redirect_chain": [],
+        "status_code": 200,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/location.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339752552,
+              "endTime": 1778339752845,
+              "duration": 293
+            }
+          },
+          {
+            "url": "http://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752867,
+              "endTime": 1778339758098,
+              "duration": 5231
+            }
+          },
+          {
+            "url": "http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752868,
+              "endTime": 1778339758063,
+              "duration": 5195
+            }
+          },
+          {
+            "url": "http://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752869,
+              "endTime": 1778339758054,
+              "duration": 5185
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/location.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752874,
+              "endTime": 1778339753107,
+              "duration": 233
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752874,
+              "endTime": 1778339752874,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752875,
+              "endTime": 1778339752875,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752877,
+              "endTime": 1778339752881,
+              "duration": 4
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/building.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752883,
+              "endTime": 1778339758623,
+              "duration": 5740
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/buildinginside.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752886,
+              "endTime": 1778339758744,
+              "duration": 5858
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339752886,
+              "endTime": 1778339752887,
+              "duration": 1
+            }
+          },
+          {
+            "url": "https://maps.google.com/maps?hl=en&q=2013+Bush+Street,+San+Francisco,+CA&ie=UTF8&hq=&hnear=2013+Bush+St,+San+Francisco,+California+94115&t=m&z=14&ll=37.787243,-122.431636&output=embed",
+            "method": "GET",
+            "status": 301,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339758153,
+              "endTime": 1778339759036,
+              "duration": 883
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339758182,
+              "endTime": 1778339758191,
+              "duration": 9
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339758197,
+              "endTime": 1778339758207,
+              "duration": 10
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339758239,
+              "endTime": 1778339758239,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339758240,
+              "endTime": 1778339759022,
+              "duration": 782
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/embed?origin=mfe&pb=!1m13!1m8!1m3!1d25224.953945204128!2d-122.431636!3d37.787243!3m2!1i1024!2i768!4f13.1!2m1!1s2013+Bush+Street,+San+Francisco,+CA!5e0!6i14!3m1!1sen!5m1!1sen",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339759038,
+              "endTime": 1778339764323,
+              "duration": 5285
+            }
+          },
+          {
+            "url": "https://maps.gstatic.com/maps-api-v3/embed/js/64/12d/init_embed.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339764440,
+              "endTime": 1778339770095,
+              "duration": 5655
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en&callback=onApiLoad",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339764446,
+              "endTime": 1778339765739,
+              "duration": 1293
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339765759,
+              "endTime": 1778339766154,
+              "duration": 395
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/geometry.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339765760,
+              "endTime": 1778339766232,
+              "duration": 472
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/main.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339765767,
+              "endTime": 1778339770169,
+              "duration": 4402
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+            "method": "GET",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770500,
+              "endTime": 1778339771370,
+              "duration": 870
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/common.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770786,
+              "endTime": 1778339772324,
+              "duration": 1538
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/util.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770802,
+              "endTime": 1778339774553,
+              "duration": 3751
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/map.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770803,
+              "endTime": 1778339773221,
+              "duration": 2418
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770803,
+              "endTime": 1778339774509,
+              "duration": 3706
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/onion.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770832,
+              "endTime": 1778339772438,
+              "duration": 1606
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search_impl.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339770832,
+              "endTime": 1778339773226,
+              "duration": 2394
+            }
+          },
+          {
+            "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339774765,
+              "endTime": 1778339775662,
+              "duration": 897
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339774935,
+              "endTime": 1778339775668,
+              "duration": 733
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339774936,
+              "endTime": 1778339775684,
+              "duration": 748
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/log.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339775351,
+              "endTime": 1778339775737,
+              "duration": 386
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339775684,
+              "endTime": 1778339776754,
+              "duration": 1070
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339775791,
+              "endTime": 1778339776922,
+              "duration": 1131
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339775792,
+              "endTime": 1778339776887,
+              "duration": 1095
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetPlaceWidgetMetadata",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339776913,
+              "endTime": 1778339777177,
+              "duration": 264
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2620!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=80046",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777118,
+              "endTime": 1778339779208,
+              "duration": 2090
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2619!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=15518",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777133,
+              "endTime": 1778339778432,
+              "duration": 1299
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2619!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=31351",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777133,
+              "endTime": 1778339778951,
+              "duration": 1818
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2620!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=95879",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777133,
+              "endTime": 1778339777491,
+              "duration": 358
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2621!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=3862",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777134,
+              "endTime": 1778339777938,
+              "duration": 804
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2621!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=119100",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777134,
+              "endTime": 1778339779468,
+              "duration": 2334
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2618!3i6332!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=107535",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777134,
+              "endTime": 1778339778784,
+              "duration": 1650
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i14!2i2618!3i6331!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=123368",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777134,
+              "endTime": 1778339777724,
+              "duration": 590
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m4!1m3!1i14!2i2618!3i6331!1m4!1m3!1i14!2i2619!3i6331!1m4!1m3!1i14!2i2618!3i6332!1m4!1m3!1i14!2i2619!3i6332!1m4!1m3!1i14!2i2620!3i6331!1m4!1m3!1i14!2i2621!3i6331!1m4!1m3!1i14!2i2620!3i6332!1m4!1m3!1i14!2i2621!3i6332!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e3!12m2!5b1!6b1!27m15!299174093m14!14m13!1m9!1m3!1y9260949739227403027!2y6553549767185087225!3m0!4m2!1x377872050!2x3070663736!8b1!15sgcid%3Ageocoded_address!2b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=114418",
+            "method": "GET",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777154,
+              "endTime": 1778339779708,
+              "duration": 2554
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/controls.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777267,
+              "endTime": 1778339779742,
+              "duration": 2475
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places_impl.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339777267,
+              "endTime": 1778339780329,
+              "duration": 3062
+            }
+          },
+          {
+            "url": "https://places.googleapis.com/$rpc/google.maps.places.v1.Places/GetPlace",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339780342,
+              "endTime": 1778339781166,
+              "duration": 824
+            }
+          },
+          {
+            "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339781087,
+              "endTime": 1778339781226,
+              "duration": 139
+            }
+          },
+          {
+            "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i11!2i327!3i791!4i256!2m1!1e1!3m12!2sen!3sUS!5e289!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i47083502&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=49890",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339781107,
+              "endTime": 1778339781597,
+              "duration": 490
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjsw.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339781200,
+              "endTime": 1778339781679,
+              "duration": 479
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/l/font?kit=5aUu9-KzpRiLCAt4Unrc-xIKmCU5mE1kgo3FI_E8lH570oBdIw&skey=b20c8ebc9802c116&v=v25",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339781200,
+              "endTime": 1778339781612,
+              "duration": 412
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2jg.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339781612,
+              "endTime": 1778339782683,
+              "duration": 1071
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "maps.google.com",
+          "fonts.gstatic.com",
+          "www.google.com",
+          "maps.gstatic.com",
+          "maps.googleapis.com",
+          "places.googleapis.com"
+        ],
+        "aggregates": {
+          "total_requests": 54,
+          "by_type": {
+            "document": 3,
+            "stylesheet": 8,
+            "script": 15,
+            "image": 15,
+            "font": 6,
+            "xhr": 7
+          },
+          "failed": 0,
+          "avg_response_time": 1703.3703703703704
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 52,
+        "max_depth": 9,
+        "script_counts": {
+          "inline": 0,
+          "external": 1,
+          "async": 0,
+          "defer": 0,
+          "blocking": 1
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "http://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "http://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/location.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact Enshin Karate San Francisco Dojo Location Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building. �Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "Enshin Karate San Francisco Dojo Location"
+          },
+          {
+            "level": "h3",
+            "text": "Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building."
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "contact",
+          "secondary": [
+            "programs",
+            "schedule",
+            "home"
+          ]
+        },
+        "hierarchy_summary": "    h3: Enshin Karate San Francisco Dojo Location\n    h3: Dojo is located at 2031 Bush Street (Buchanan & Webster) inside of Kimon Gakuen Building."
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/location.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/building.jpg",
+          "page_url": "http://www.enshinsf.com/location.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/buildinginside.jpg",
+          "page_url": "http://www.enshinsf.com/location.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/schedule.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:16:28.991Z",
+        "redirect_chain": [],
+        "status_code": 200,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/schedule.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339789012,
+              "endTime": 1778339789514,
+              "duration": 502
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789593,
+              "endTime": 1778339789593,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789593,
+              "endTime": 1778339789593,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789594,
+              "endTime": 1778339789594,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/schedule.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789594,
+              "endTime": 1778339789798,
+              "duration": 204
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789594,
+              "endTime": 1778339789594,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789594,
+              "endTime": 1778339789595,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789597,
+              "endTime": 1778339789597,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789598,
+              "endTime": 1778339789598,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789886,
+              "endTime": 1778339789887,
+              "duration": 1
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789892,
+              "endTime": 1778339789894,
+              "duration": 2
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789900,
+              "endTime": 1778339789901,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339789901,
+              "endTime": 1778339789901,
+              "duration": 0
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "fonts.gstatic.com"
+        ],
+        "aggregates": {
+          "total_requests": 13,
+          "by_type": {
+            "document": 1,
+            "stylesheet": 6,
+            "script": 1,
+            "image": 3,
+            "font": 2
+          },
+          "failed": 0,
+          "avg_response_time": 54.69230769230769
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 60,
+        "max_depth": 10,
+        "script_counts": {
+          "inline": 0,
+          "external": 1,
+          "async": 0,
+          "defer": 0,
+          "blocking": 1
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/schedule.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact Enshin Karate Schedule Classes meet twice a week on Mondays and Fridays from 6:00pm-7:30pm. The dojo\nwill open up at 5:30pm and class will start promptly at 6:00pm. Both classes are for all ability levels, whether it is your first time, you've\ntrained in another martial art, or you're currently a student at the dojo. All\nclasses are mixed kids and adults. We ask that kids be at least ten years old.\nIf you're interested, we are happy to have you try out a class. The dojo is located at 2031 Bust St. between\nWebster and Buchanan. See our location page for a\nmap. Class Tuition You may either pay for each individual class you attend or you may pay once to\ncome to all of the classes that are offered in a given month. For beginners and\nstudents new to the dojo, the first two lessons are free! Monthly fee: $120 Per class: $35 Uniform / Light Weight Gi for kids: $60-80 Uniform / Heavy Weight Gi for adults: $110 If you have a family of three or more students you will receive a $60\ndiscount on monthly tuition. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "Enshin Karate Schedule"
+          },
+          {
+            "level": "h3",
+            "text": "Class Tuition"
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "schedule",
+            "pricing",
+            "contact"
+          ]
+        },
+        "hierarchy_summary": "    h3: Enshin Karate Schedule\n    h3: Class Tuition"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/schedule.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/contact.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:16:34.602Z",
+        "redirect_chain": [],
+        "status_code": 200,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/contact.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339794615,
+              "endTime": 1778339795327,
+              "duration": 712
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795358,
+              "endTime": 1778339795361,
+              "duration": 3
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795374,
+              "endTime": 1778339795374,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795374,
+              "endTime": 1778339795375,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/contact.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795375,
+              "endTime": 1778339796023,
+              "duration": 648
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795375,
+              "endTime": 1778339795376,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795376,
+              "endTime": 1778339795376,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795376,
+              "endTime": 1778339795377,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/contact.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795380,
+              "endTime": 1778339795685,
+              "duration": 305
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/contact1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795381,
+              "endTime": 1778339795551,
+              "duration": 170
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/contact2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795381,
+              "endTime": 1778339797334,
+              "duration": 1953
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339795381,
+              "endTime": 1778339795381,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339796070,
+              "endTime": 1778339796070,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339796083,
+              "endTime": 1778339796083,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339796083,
+              "endTime": 1778339796084,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339796087,
+              "endTime": 1778339796087,
+              "duration": 0
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "fonts.gstatic.com"
+        ],
+        "aggregates": {
+          "total_requests": 16,
+          "by_type": {
+            "document": 1,
+            "stylesheet": 6,
+            "script": 1,
+            "image": 6,
+            "font": 2
+          },
+          "failed": 0,
+          "avg_response_time": 237.1875
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 49,
+        "max_depth": 9,
+        "script_counts": {
+          "inline": 0,
+          "external": 1,
+          "async": 0,
+          "defer": 0,
+          "blocking": 1
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/contact.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact Ask Any Questions About Enshin Karate San Francisco! Please e-mail us at enshinsf@gmail.com with your questions! �Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "Ask Any Questions About Enshin Karate San Francisco!"
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "faq",
+            "contact",
+            "schedule"
+          ]
+        },
+        "hierarchy_summary": "    h3: Ask Any Questions About Enshin Karate San Francisco!"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/contact.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/contact.jpg",
+          "page_url": "http://www.enshinsf.com/contact.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/contact1.jpg",
+          "page_url": "http://www.enshinsf.com/contact.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/contact2.jpg",
+          "page_url": "http://www.enshinsf.com/contact.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [],
+        "other": []
+      }
+    },
+    {
+      "page": {
+        "url": "http://www.enshinsf.com/about.html",
+        "title": "Enshin Karate SF: Tomiyama Dojo",
+        "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+        "canonical": "",
+        "crawl_timestamp": "2026-05-09T15:16:45.858Z",
+        "redirect_chain": [],
+        "status_code": 200,
+        "content_type": "text/html"
+      },
+      "frameworks": {
+        "detected": [
+          "jQuery"
+        ],
+        "versions": {
+          "jQuery": "1.8.3"
+        }
+      },
+      "network": {
+        "requests": [
+          {
+            "url": "http://www.enshinsf.com/about.html",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339805866,
+              "endTime": 1778339806764,
+              "duration": 898
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806827,
+              "endTime": 1778339806827,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806832,
+              "endTime": 1778339806833,
+              "duration": 1
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Carme",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806833,
+              "endTime": 1778339806833,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/about.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806833,
+              "endTime": 1778339807002,
+              "duration": 169
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/style.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806833,
+              "endTime": 1778339806833,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/engine1/jquery.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806833,
+              "endTime": 1778339806833,
+              "duration": 0
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806833,
+              "endTime": 1778339806834,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/aboutsensei.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806834,
+              "endTime": 1778339807108,
+              "duration": 274
+            }
+          },
+          {
+            "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339806834,
+              "endTime": 1778339806834,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://www.youtube.com/embed/kZTaw--6IQ4",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339807103,
+              "endTime": 1778339808544,
+              "duration": 1441
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339807118,
+              "endTime": 1778339807118,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339807124,
+              "endTime": 1778339807125,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/bg1.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339807131,
+              "endTime": 1778339807132,
+              "duration": 1
+            }
+          },
+          {
+            "url": "http://www.enshinsf.com/images/topbar2.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339807132,
+              "endTime": 1778339807132,
+              "duration": 0
+            }
+          },
+          {
+            "url": "https://www.youtube.com/embed/NkQ8r4jGdCg",
+            "method": "GET",
+            "status": 200,
+            "type": "document",
+            "initiator": "navigation",
+            "timing": {
+              "startTime": 1778339807136,
+              "endTime": 1778339810825,
+              "duration": 3689
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339808574,
+              "endTime": 1778339811059,
+              "duration": 2485
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339808576,
+              "endTime": 1778339812220,
+              "duration": 3644
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339808581,
+              "endTime": 1778339816068,
+              "duration": 7487
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339808581,
+              "endTime": 1778339816368,
+              "duration": 7787
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339809490,
+              "endTime": 1778339815232,
+              "duration": 5742
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339809491,
+              "endTime": 1778339823162,
+              "duration": 13671
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810856,
+              "endTime": 1778339811065,
+              "duration": 209
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+            "method": "GET",
+            "status": 200,
+            "type": "stylesheet",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810857,
+              "endTime": 1778339812222,
+              "duration": 1365
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810857,
+              "endTime": 1778339815298,
+              "duration": 4441
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/de_DE/base.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810857,
+              "endTime": 1778339823277,
+              "duration": 12420
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810858,
+              "endTime": 1778339816083,
+              "duration": 5225
+            }
+          },
+          {
+            "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+            "method": "GET",
+            "status": 200,
+            "type": "font",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339810859,
+              "endTime": 1778339816406,
+              "duration": 5547
+            }
+          },
+          {
+            "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339817472,
+              "endTime": 1778339818270,
+              "duration": 798
+            }
+          },
+          {
+            "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339817493,
+              "endTime": 1778339818309,
+              "duration": 816
+            }
+          },
+          {
+            "url": "https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "status": 302,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823440,
+              "endTime": 1778339824120,
+              "duration": 680
+            }
+          },
+          {
+            "url": "https://static.doubleclick.net/instream/ad_status.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823440,
+              "endTime": 1778339824097,
+              "duration": 657
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823440,
+              "endTime": 1778339827767,
+              "duration": 4327
+            }
+          },
+          {
+            "url": "https://googleads.g.doubleclick.net/pagead/id",
+            "method": "GET",
+            "status": 302,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823524,
+              "endTime": 1778339824224,
+              "duration": 700
+            }
+          },
+          {
+            "url": "https://static.doubleclick.net/instream/ad_status.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823524,
+              "endTime": 1778339824140,
+              "duration": 616
+            }
+          },
+          {
+            "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339823531,
+              "endTime": 1778339827799,
+              "duration": 4268
+            }
+          },
+          {
+            "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+            "method": "GET",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339824121,
+              "endTime": 1778339824279,
+              "duration": 158
+            }
+          },
+          {
+            "url": "https://www.google.com/js/th/dQfaJ02dFTmUn8lxeuLo0cdQCX95ouq_O2IH7MdXPXk.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339824155,
+              "endTime": 1778339827496,
+              "duration": 3341
+            }
+          },
+          {
+            "url": "https://www.google.com/js/th/dQfaJ02dFTmUn8lxeuLo0cdQCX95ouq_O2IH7MdXPXk.js",
+            "method": "GET",
+            "status": 200,
+            "type": "script",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339824196,
+              "endTime": 1778339827501,
+              "duration": 3305
+            }
+          },
+          {
+            "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+            "method": "GET",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339824224,
+              "endTime": 1778339825004,
+              "duration": 780
+            }
+          },
+          {
+            "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339826175,
+              "endTime": 1778339827629,
+              "duration": 1454
+            }
+          },
+          {
+            "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339826200,
+              "endTime": 1778339827631,
+              "duration": 1431
+            }
+          },
+          {
+            "url": "https://i.ytimg.com/vi/kZTaw--6IQ4/sddefault.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828310,
+              "endTime": 1778339829409,
+              "duration": 1099
+            }
+          },
+          {
+            "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+            "method": "GET",
+            "status": 200,
+            "type": "fetch",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828355,
+              "endTime": 1778339829658,
+              "duration": 1303
+            }
+          },
+          {
+            "url": "https://i.ytimg.com/vi/NkQ8r4jGdCg/sddefault.jpg",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828631,
+              "endTime": 1778339829788,
+              "duration": 1157
+            }
+          },
+          {
+            "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+            "method": "GET",
+            "status": 200,
+            "type": "fetch",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828632,
+              "endTime": 1778339829788,
+              "duration": 1156
+            }
+          },
+          {
+            "url": "https://yt3.ggpht.com/wXwc0q-ZdZnWIMNP_hY18X_xp4tSttxtRX6RLSeMVyEfbpQ0j64kpl_P8moo1RiXxe7SmXmyCg=s68-c-k-c0x00ffffff-no-rj",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828697,
+              "endTime": 1778339830493,
+              "duration": 1796
+            }
+          },
+          {
+            "url": "https://yt3.ggpht.com/wXwc0q-ZdZnWIMNP_hY18X_xp4tSttxtRX6RLSeMVyEfbpQ0j64kpl_P8moo1RiXxe7SmXmyCg=s68-c-k-c0x00ffffff-no-rj",
+            "method": "GET",
+            "status": 200,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339828698,
+              "endTime": 1778339830506,
+              "duration": 1808
+            }
+          },
+          {
+            "url": "https://www.youtube.com/generate_204?FNTVPA",
+            "method": "GET",
+            "status": 204,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339829945,
+              "endTime": 1778339830199,
+              "duration": 254
+            }
+          },
+          {
+            "url": "https://www.youtube.com/generate_204?3G4gxQ",
+            "method": "GET",
+            "status": 204,
+            "type": "image",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339829972,
+              "endTime": 1778339830201,
+              "duration": 229
+            }
+          },
+          {
+            "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339830376,
+              "endTime": 1778339830725,
+              "duration": 349
+            }
+          },
+          {
+            "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+            "method": "POST",
+            "status": 200,
+            "type": "xhr",
+            "initiator": "other",
+            "timing": {
+              "startTime": 1778339830460,
+              "endTime": 1778339830754,
+              "duration": 294
+            }
+          }
+        ],
+        "third_party_domains": [
+          "www.enshinsf.com",
+          "fonts.googleapis.com",
+          "www.youtube.com",
+          "fonts.gstatic.com",
+          "googleads.g.doubleclick.net",
+          "static.doubleclick.net",
+          "www.google.com",
+          "i.ytimg.com",
+          "www.gstatic.com",
+          "yt3.ggpht.com",
+          "jnn-pa.googleapis.com"
+        ],
+        "aggregates": {
+          "total_requests": 52,
+          "by_type": {
+            "document": 3,
+            "stylesheet": 10,
+            "script": 11,
+            "image": 10,
+            "font": 6,
+            "xhr": 10,
+            "fetch": 2
+          },
+          "failed": 0,
+          "avg_response_time": 2101.423076923077
+        }
+      },
+      "dom_metrics": {
+        "total_nodes": 52,
+        "max_depth": 9,
+        "script_counts": {
+          "inline": 0,
+          "external": 1,
+          "async": 0,
+          "defer": 0,
+          "blocking": 1
+        },
+        "blocking_resources": [
+          "http://www.enshinsf.com/engine1/jquery.js",
+          "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+          "https://fonts.googleapis.com/css?family=Carme",
+          "http://www.enshinsf.com/about.css",
+          "http://www.enshinsf.com/engine1/style.css"
+        ]
+      },
+      "content": {
+        "visible_text": "Home About Location Schedule Contact About Sensei Naohiro Tomiyama Sensei is the 1992 Enshin Karate World Champion with over 40 years martial arts experience of Kendo, Judo and Karate. his martial arts experience began as early as age 6 years old.\n      For six years he studied Kendo(Japanese sword fencing). He then turned his efforts to Kyokushin Karate in the 1981. After graduating from Kokushikan University in Japan, Sensei Tomiyama traveled to America to train with our Grand Master Kancho\nNinomiya(1978 All Japan Karate Champion) in 1991. Following his training under Kancho as an Uchideshi(personal student) he challenged\nthe 1992 World Sabaki Tournament and won the title of World Champion. He then traveled back to Japan where he became the Chief Instructor for the Tokyo branch of\nEnshin Dojo(1993-1997). after producing three Japanese Champions, he decided to come to San Francisco to open the San Francisco Enshin\nDojo. Since then, he has been leading his students with highly sophisticated teaching methods and warm heart. ©Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "About Sensei Naohiro Tomiyama"
+          }
+        ],
+        "ctas": [
+          {
+            "text": "Schedule",
+            "type": "link",
+            "href": "http://www.enshinsf.com/schedule.html"
+          }
+        ],
+        "inferred_intent": {
+          "primary": "programs",
+          "secondary": [
+            "instructors",
+            "contact",
+            "schedule"
+          ]
+        },
+        "hierarchy_summary": "    h3: About Sensei Naohiro Tomiyama"
+      },
+      "images": [
+        {
+          "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+          "page_url": "http://www.enshinsf.com/about.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        },
+        {
+          "src": "http://www.enshinsf.com/images/aboutsensei.jpg",
+          "page_url": "http://www.enshinsf.com/about.html",
+          "alt": "",
+          "surrounding_text": "",
+          "inferred_purpose": "general"
+        }
+      ],
+      "third_party": {
+        "analytics": [],
+        "booking": [],
+        "payment": [],
+        "chat": [],
+        "social": [
+          "YouTube Embed"
+        ],
+        "other": []
+      }
+    }
+  ],
+  "analytics": {
+    "framework_distribution": {
+      "jQuery": 7
+    },
+    "intent_distribution": {
+      "programs": 6,
+      "contact": 1
+    },
+    "third_party_frequency": {
+      "YouTube Embed": 1
+    },
+    "image_purposes": {
+      "general": 15,
+      "hero": 37,
+      "icon": 5,
+      "instructor_photo": 1
+    },
+    "blocking_resources_by_page": [
+      {
+        "url": "http://www.enshinsf.com/index.html",
+        "count": 8
+      },
+      {
+        "url": "http://www.enshinsf.com/",
+        "count": 7
+      },
+      {
+        "url": "http://www.enshinsf.com/enshin.html",
+        "count": 6
+      },
+      {
+        "url": "http://www.enshinsf.com/location.html",
+        "count": 6
+      },
+      {
+        "url": "http://www.enshinsf.com/schedule.html",
+        "count": 6
+      },
+      {
+        "url": "http://www.enshinsf.com/contact.html",
+        "count": 6
+      },
+      {
+        "url": "http://www.enshinsf.com/about.html",
+        "count": 6
+      }
+    ],
+    "largest_pages_by_dom_nodes": [
+      {
+        "url": "http://www.enshinsf.com/index.html",
+        "nodes": 139
+      },
+      {
+        "url": "http://www.enshinsf.com/",
+        "nodes": 82
+      },
+      {
+        "url": "http://www.enshinsf.com/enshin.html",
+        "nodes": 60
+      },
+      {
+        "url": "http://www.enshinsf.com/schedule.html",
+        "nodes": 60
+      },
+      {
+        "url": "http://www.enshinsf.com/location.html",
+        "nodes": 52
+      },
+      {
+        "url": "http://www.enshinsf.com/about.html",
+        "nodes": 52
+      },
+      {
+        "url": "http://www.enshinsf.com/contact.html",
+        "nodes": 49
+      }
+    ],
+    "heaviest_pages_by_requests": [
+      {
+        "url": "http://www.enshinsf.com/location.html",
+        "requests": 54
+      },
+      {
+        "url": "http://www.enshinsf.com/about.html",
+        "requests": 52
+      },
+      {
+        "url": "http://www.enshinsf.com/index.html",
+        "requests": 40
+      },
+      {
+        "url": "http://www.enshinsf.com/",
+        "requests": 38
+      },
+      {
+        "url": "http://www.enshinsf.com/contact.html",
+        "requests": 16
+      },
+      {
+        "url": "http://www.enshinsf.com/enshin.html",
+        "requests": 15
+      },
+      {
+        "url": "http://www.enshinsf.com/schedule.html",
+        "requests": 13
+      }
+    ],
+    "network_totals": {
+      "total_requests": 228,
+      "total_failed": 0,
+      "by_type": {
+        "document": 11,
+        "stylesheet": 48,
+        "script": 35,
+        "image": 94,
+        "font": 21,
+        "xhr": 17,
+        "fetch": 2
+      },
+      "avg_requests_per_page": 33
+    }
+  },
+  "images_index": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "usage_count": 7,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html",
+        "http://www.enshinsf.com/enshin.html",
+        "http://www.enshinsf.com/location.html",
+        "http://www.enshinsf.com/schedule.html",
+        "http://www.enshinsf.com/contact.html",
+        "http://www.enshinsf.com/about.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/gallery1.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "Sabaki Challenge San Francisco"
+      ],
+      "primary_alt": "Sabaki Challenge San Francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin2.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "Enshin Karate SF"
+      ],
+      "primary_alt": "Enshin Karate SF",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin3.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "performance at Cherry Blossom Festival San Francisco"
+      ],
+      "primary_alt": "performance at Cherry Blossom Festival San Francisco",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin4.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "Enshin Karate SF"
+      ],
+      "primary_alt": "Enshin Karate SF",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin5.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "Enshin Karate SF"
+      ],
+      "primary_alt": "Enshin Karate SF",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin6.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin6"
+      ],
+      "primary_alt": "enshin6",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin7.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin7"
+      ],
+      "primary_alt": "enshin7",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin8.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin8"
+      ],
+      "primary_alt": "enshin8",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin9.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin9"
+      ],
+      "primary_alt": "enshin9",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/images/enshin10.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin10"
+      ],
+      "primary_alt": "enshin10",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/gallery1.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "Enshin Karate SF"
+      ],
+      "primary_alt": "Enshin Karate SF",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin2.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin2"
+      ],
+      "primary_alt": "enshin2",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin3.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin3"
+      ],
+      "primary_alt": "enshin3",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin4.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin4"
+      ],
+      "primary_alt": "enshin4",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin5.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin5"
+      ],
+      "primary_alt": "enshin5",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin6.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin6"
+      ],
+      "primary_alt": "enshin6",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin7.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin7"
+      ],
+      "primary_alt": "enshin7",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin8.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin8"
+      ],
+      "primary_alt": "enshin8",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin9.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin9"
+      ],
+      "primary_alt": "enshin9",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/data1/tooltips/enshin10.jpg",
+      "usage_count": 2,
+      "pages_found_on": [
+        "http://www.enshinsf.com/",
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [
+        "enshin10"
+      ],
+      "primary_alt": "enshin10",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/sensei2.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/mapthumb2.png",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/dojo2.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/index.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "icon"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/ninomiya.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/enshin.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/mike1.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/enshin.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "instructor_photo"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/building.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/location.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/buildinginside.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/location.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/contact.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact1.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/contact.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact2.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/contact.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/aboutsensei.jpg",
+      "usage_count": 1,
+      "pages_found_on": [
+        "http://www.enshinsf.com/about.html"
+      ],
+      "alt_texts": [],
+      "primary_alt": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "site_index": {
+    "pages_by_intent": {
+      "programs": [
+        {
+          "url": "http://www.enshinsf.com/",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/index.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/enshin.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/schedule.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/contact.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/about.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        }
+      ],
+      "contact": [
+        {
+          "url": "http://www.enshinsf.com/location.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        }
+      ]
+    },
+    "pages_by_depth": {
+      "0": [
+        {
+          "url": "http://www.enshinsf.com/",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        }
+      ],
+      "1": [
+        {
+          "url": "http://www.enshinsf.com/index.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/enshin.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/location.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/schedule.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/contact.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        },
+        {
+          "url": "http://www.enshinsf.com/about.html",
+          "title": "Enshin Karate SF: Tomiyama Dojo"
+        }
+      ]
+    },
+    "internal_link_graph": []
+  }
+}

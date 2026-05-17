@@ -1,0 +1,315 @@
+{
+  "page": {
+    "url": "http://www.enshinsf.com/contact.html",
+    "title": "Enshin Karate SF: Tomiyama Dojo",
+    "meta_description": "enshinmain created with WOW Slider, a free wizard program that helps you easily generate beautiful web slideshow",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T15:16:34.602Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery"
+    ],
+    "versions": {
+      "jQuery": "1.8.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "http://www.enshinsf.com/contact.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778339794615,
+          "endTime": 1778339795327,
+          "duration": 712
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795358,
+          "endTime": 1778339795361,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795374,
+          "endTime": 1778339795374,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Carme",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795374,
+          "endTime": 1778339795375,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/contact.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795375,
+          "endTime": 1778339796023,
+          "duration": 648
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795375,
+          "endTime": 1778339795376,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/engine1/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795376,
+          "endTime": 1778339795376,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/enshinlogo.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795376,
+          "endTime": 1778339795377,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/contact.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795380,
+          "endTime": 1778339795685,
+          "duration": 305
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/contact1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795381,
+          "endTime": 1778339795551,
+          "duration": 170
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/contact2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795381,
+          "endTime": 1778339797334,
+          "duration": 1953
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Signika&subset=latin,latin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339795381,
+          "endTime": 1778339795381,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjBzrc.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339796070,
+          "endTime": 1778339796070,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuoxDkj.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339796083,
+          "endTime": 1778339796083,
+          "duration": 0
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/bg1.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339796083,
+          "endTime": 1778339796084,
+          "duration": 1
+        }
+      },
+      {
+        "url": "http://www.enshinsf.com/images/topbar2.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778339796087,
+          "endTime": 1778339796087,
+          "duration": 0
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.enshinsf.com",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com"
+    ],
+    "aggregates": {
+      "total_requests": 16,
+      "by_type": {
+        "document": 1,
+        "stylesheet": 6,
+        "script": 1,
+        "image": 6,
+        "font": 2
+      },
+      "failed": 0,
+      "avg_response_time": 237.1875
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 49,
+    "max_depth": 9,
+    "script_counts": {
+      "inline": 0,
+      "external": 1,
+      "async": 0,
+      "defer": 0,
+      "blocking": 1
+    },
+    "blocking_resources": [
+      "http://www.enshinsf.com/engine1/jquery.js",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+      "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300",
+      "https://fonts.googleapis.com/css?family=Carme",
+      "http://www.enshinsf.com/contact.css",
+      "http://www.enshinsf.com/engine1/style.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home About Location Schedule Contact Ask Any Questions About Enshin Karate San Francisco! Please e-mail us at enshinsf@gmail.com with your questions! �Enshin Karate San Francisco 2013 l 2031 Bush Street, San Francisco CA 94115.",
+    "headings": [
+      {
+        "level": "h3",
+        "text": "Ask Any Questions About Enshin Karate San Francisco!"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "http://www.enshinsf.com/schedule.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "faq",
+        "contact",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "    h3: Ask Any Questions About Enshin Karate San Francisco!"
+  },
+  "images": [
+    {
+      "src": "http://www.enshinsf.com/images/enshinlogo.jpg",
+      "page_url": "http://www.enshinsf.com/contact.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact.jpg",
+      "page_url": "http://www.enshinsf.com/contact.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact1.jpg",
+      "page_url": "http://www.enshinsf.com/contact.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "http://www.enshinsf.com/images/contact2.jpg",
+      "page_url": "http://www.enshinsf.com/contact.html",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    }
+  ],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

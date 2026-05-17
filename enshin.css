@@ -1,0 +1,842 @@
+/*
+  960 Grid System ~ Core CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+/*
+  Forces backgrounds to span full width,
+  even if there is horizontal scrolling.
+  Increase this if your layout is wider.
+
+  Note: IE6 works fine without this fix.
+*/
+#title{position: relative; top:-15px;}
+
+#senseitext {position:relative;bottom:14px;left:15px;}
+
+#aboutquick a{color:rgb(0,0,0);text-decoration:none;}
+#aboutquick a:visited{color:rgb(0,0,0);text-decoration:none;}
+#aboutquick a:hover{color:rgb(0,180,250);text-decoration:none;}
+
+#intro {}
+#intro2 {position:relative; top:44px;}
+#intro3 {position:relative; top:44px;}
+
+#intro3 a{color:rgb(0,90,150);text-decoration:none;}
+#intro3 a:visited{color:rgb(0,90,150);text-decoration:none;}
+#intro3 a:hover{color:rgb(0,180,250);text-decoration:none;}
+#explainblock {color:rgb(235,235,235);padding-top:0px; padding-bottom:0px;position:realtive; left:-10px;border-top:#999 solid 1px; border-bottom:#999 solid 1px; margin-top:;background-image: url(images/blkcot.jpg);}
+#explainblock h3{font-family: 'Carme', sans-serif;}
+#explainblock p{font-family: 'Carme', sans-serif;}
+
+#firstblock {padding-bottom:10px;padding-top:10px;margin-top:0px;position:relative; left:5px;color:rgbb(30,30,30);}
+#firstblock h3{font-family: 'Carme', sans-serif;}
+#firstblock p{font-family: 'Carme', sans-serif;}
+
+#thirdblock {background-color:#; padding-top:px; padding-bottom:px;position:realtive;bottom:20px;}
+#thirdblock h3{font-family: 'Carme', sans-serif;}
+#thirdblock p{font-family: 'Carme', sans-serif;}
+
+#secondblock {background-color:#; padding-top:px; padding-bottom:70px;position:; ;padding-bottom:40 px;}
+#secondblock h3{font-family: 'Carme', sans-serif;}
+#secondblock p{font-family: 'Carme', sans-serif;}
+
+#fourthblock h3{font-family: 'Carme', sans-serif;}
+#fourthblock h2{font-family: 'Carme', sans-serif;}
+#fourthblock p{font-family: 'Carme', sans-serif;}
+#fifthblock h2{font-family: 'Carme', sans-serif;}
+#fifthblock h3{font-family: 'Carme', sans-serif;}
+#fifthblock p{font-family: 'Carme', sans-serif;}
+#sixthblock h2{font-family: 'Carme', sans-serif;}
+#sixthblock h3{font-family: 'Carme', sans-serif;}
+#sixthblock p{font-family: 'Carme', sans-serif;}
+
+#location {background-color:#FFF; height:380px;border: solid 1px #999;} 
+
+
+
+
+#background {background-image: url(images/topbar2.jpg);margin-top:-30px;width:100%;
+height:50px;
+padding-top:px;
+padding:0px; }
+
+
+#foooter {border-top:solid px #; margin-top:0px;}
+#foooter p {font-size:12px; font-family:Arial, Helvetica, sans-serif;color:#999;}
+
+#foreground {background-image: url(images/topbar2.jpg);margin-top:;margin-bottom:00px;padding-bottom:00px;
+width:100%;
+height:100px;
+margin-top:-px;
+padding-top:00px;}
+}
+
+#topfont {margin-bottom:0px;padding-bottom:0px;height:35px;}
+#topfont p {font-size: 40px;font-family: 'gizmoregular';}
+
+#topbar {background-image:url(color1.png);
+margin-bottom:0px;
+width:150%;
+height:5px;
+margin-top:-px;
+padding-top:0px;position:relative;bottom:26px;}
+
+
+#bottom {background-image:url(color1.png);
+margin-bottom:0px;
+width:150%;
+height:5px;
+margin-top:-16px;
+padding-top:0px;}
+
+
+
+
+#logo {position:relative; bottom:30px;}
+
+
+#biggest {background-image:url(images/bg1.jpg);width:100%; height:auto; overflow:hidden; padding-bottom:40px;}
+#first { margin-left:px; margin-top:0px;position:relative;top:57px; left:0px; margin-bottom:0px;padding-bottom:0px;}
+
+
+/* `Container
+----------------------------------------------------------------------------------------------------*/
+
+.container_12,
+.container_16 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+
+/* `Grid >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12,
+.grid_13,
+.grid_14,
+.grid_15,
+.grid_16 {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.push_1, .pull_1,
+.push_2, .pull_2,
+.push_3, .pull_3,
+.push_4, .pull_4,
+.push_5, .pull_5,
+.push_6, .pull_6,
+.push_7, .pull_7,
+.push_8, .pull_8,
+.push_9, .pull_9,
+.push_10, .pull_10,
+.push_11, .pull_11,
+.push_12, .pull_12,
+.push_13, .pull_13,
+.push_14, .pull_14,
+.push_15, .pull_15 {
+  position: relative;
+}
+
+.container_12 .grid_3,
+.container_16 .grid_4 {
+  width: 220px;
+}
+
+.container_12 .grid_6,
+.container_16 .grid_8 {
+  width: 460px;
+}
+
+.container_12 .grid_9,
+.container_16 .grid_12 {
+  width: 700px;
+}
+
+.container_12 .grid_12,
+.container_16 .grid_16 {
+  width: 940px;
+}
+
+/* `Grid >> Children (Alpha ~ First, Omega ~ Last)
+----------------------------------------------------------------------------------------------------*/
+
+.alpha {
+  margin-left: 0;
+}
+
+.omega {
+  margin-right: 0;
+}
+
+/* `Grid >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .grid_1 {
+  width: 60px;
+}
+
+.container_12 .grid_2 {
+  width: 140px;
+}
+
+.container_12 .grid_4 {
+  width: 300px;
+}
+
+.container_12 .grid_5 {
+  width: 380px;
+}
+
+.container_12 .grid_7 {
+  width: 540px;
+}
+
+.container_12 .grid_8 {
+  width: 620px;
+}
+
+.container_12 .grid_10 {
+  width: 780px;
+}
+
+.container_12 .grid_11 {
+  width: 860px;
+}
+
+/* `Grid >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .grid_1 {
+  width: 40px;
+}
+
+.container_16 .grid_2 {
+  width: 100px;
+}
+
+.container_16 .grid_3 {
+  width: 160px;
+}
+
+.container_16 .grid_5 {
+  width: 280px;
+}
+
+.container_16 .grid_6 {
+  width: 340px;
+}
+
+.container_16 .grid_7 {
+  width: 400px;
+}
+
+.container_16 .grid_9 {
+  width: 520px;
+}
+
+.container_16 .grid_10 {
+  width: 580px;
+}
+
+.container_16 .grid_11 {
+  width: 640px;
+}
+
+.container_16 .grid_13 {
+  width: 760px;
+}
+
+.container_16 .grid_14 {
+  width: 820px;
+}
+
+.container_16 .grid_15 {
+  width: 880px;
+}
+
+/* `Prefix Extra Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .prefix_3,
+.container_16 .prefix_4 {
+  padding-left: 240px;
+}
+
+.container_12 .prefix_6,
+.container_16 .prefix_8 {
+  padding-left: 480px;
+}
+
+.container_12 .prefix_9,
+.container_16 .prefix_12 {
+  padding-left: 720px;
+}
+
+/* `Prefix Extra Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .prefix_1 {
+  padding-left: 80px;
+}
+
+.container_12 .prefix_2 {
+  padding-left: 160px;
+}
+
+.container_12 .prefix_4 {
+  padding-left: 320px;
+}
+
+.container_12 .prefix_5 {
+  padding-left: 400px;
+}
+
+.container_12 .prefix_7 {
+  padding-left: 560px;
+}
+
+.container_12 .prefix_8 {
+  padding-left: 640px;
+}
+
+.container_12 .prefix_10 {
+  padding-left: 800px;
+}
+
+.container_12 .prefix_11 {
+  padding-left: 880px;
+}
+
+/* `Prefix Extra Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .prefix_1 {
+  padding-left: 60px;
+}
+
+.container_16 .prefix_2 {
+  padding-left: 120px;
+}
+
+.container_16 .prefix_3 {
+  padding-left: 180px;
+}
+
+.container_16 .prefix_5 {
+  padding-left: 300px;
+}
+
+.container_16 .prefix_6 {
+  padding-left: 360px;
+}
+
+.container_16 .prefix_7 {
+  padding-left: 420px;
+}
+
+.container_16 .prefix_9 {
+  padding-left: 540px;
+}
+
+.container_16 .prefix_10 {
+  padding-left: 600px;
+}
+
+.container_16 .prefix_11 {
+  padding-left: 660px;
+}
+
+.container_16 .prefix_13 {
+  padding-left: 780px;
+}
+
+.container_16 .prefix_14 {
+  padding-left: 840px;
+}
+
+.container_16 .prefix_15 {
+  padding-left: 900px;
+}
+
+/* `Suffix Extra Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .suffix_3,
+.container_16 .suffix_4 {
+  padding-right: 240px;
+}
+
+.container_12 .suffix_6,
+.container_16 .suffix_8 {
+  padding-right: 480px;
+}
+
+.container_12 .suffix_9,
+.container_16 .suffix_12 {
+  padding-right: 720px;
+}
+
+/* `Suffix Extra Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .suffix_1 {
+  padding-right: 80px;
+}
+
+.container_12 .suffix_2 {
+  padding-right: 160px;
+}
+
+.container_12 .suffix_4 {
+  padding-right: 320px;
+}
+
+.container_12 .suffix_5 {
+  padding-right: 400px;
+}
+
+.container_12 .suffix_7 {
+  padding-right: 560px;
+}
+
+.container_12 .suffix_8 {
+  padding-right: 640px;
+}
+
+.container_12 .suffix_10 {
+  padding-right: 800px;
+}
+
+.container_12 .suffix_11 {
+  padding-right: 880px;
+}
+
+/* `Suffix Extra Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .suffix_1 {
+  padding-right: 60px;
+}
+
+.container_16 .suffix_2 {
+  padding-right: 120px;
+}
+
+.container_16 .suffix_3 {
+  padding-right: 180px;
+}
+
+.container_16 .suffix_5 {
+  padding-right: 300px;
+}
+
+.container_16 .suffix_6 {
+  padding-right: 360px;
+}
+
+.container_16 .suffix_7 {
+  padding-right: 420px;
+}
+
+.container_16 .suffix_9 {
+  padding-right: 540px;
+}
+
+.container_16 .suffix_10 {
+  padding-right: 600px;
+}
+
+.container_16 .suffix_11 {
+  padding-right: 660px;
+}
+
+.container_16 .suffix_13 {
+  padding-right: 780px;
+}
+
+.container_16 .suffix_14 {
+  padding-right: 840px;
+}
+
+.container_16 .suffix_15 {
+  padding-right: 900px;
+}
+
+/* `Push Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .push_3,
+.container_16 .push_4 {
+  left: 240px;
+}
+
+.container_12 .push_6,
+.container_16 .push_8 {
+  left: 480px;
+}
+
+.container_12 .push_9,
+.container_16 .push_12 {
+  left: 720px;
+}
+
+/* `Push Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .push_1 {
+  left: 80px;
+}
+
+.container_12 .push_2 {
+  left: 160px;
+}
+
+.container_12 .push_4 {
+  left: 320px;
+}
+
+.container_12 .push_5 {
+  left: 400px;
+}
+
+.container_12 .push_7 {
+  left: 560px;
+}
+
+.container_12 .push_8 {
+  left: 640px;
+}
+
+.container_12 .push_10 {
+  left: 800px;
+}
+
+.container_12 .push_11 {
+  left: 880px;
+}
+
+/* `Push Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .push_1 {
+  left: 60px;
+}
+
+.container_16 .push_2 {
+  left: 120px;
+}
+
+.container_16 .push_3 {
+  left: 180px;
+}
+
+.container_16 .push_5 {
+  left: 300px;
+}
+
+.container_16 .push_6 {
+  left: 360px;
+}
+
+.container_16 .push_7 {
+  left: 420px;
+}
+
+.container_16 .push_9 {
+  left: 540px;
+}
+
+.container_16 .push_10 {
+  left: 600px;
+}
+
+.container_16 .push_11 {
+  left: 660px;
+}
+
+.container_16 .push_13 {
+  left: 780px;
+}
+
+.container_16 .push_14 {
+  left: 840px;
+}
+
+.container_16 .push_15 {
+  left: 900px;
+}
+
+/* `Pull Space >> Global
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .pull_3,
+.container_16 .pull_4 {
+  left: -240px;
+}
+
+.container_12 .pull_6,
+.container_16 .pull_8 {
+  left: -480px;
+}
+
+.container_12 .pull_9,
+.container_16 .pull_12 {
+  left: -720px;
+}
+
+/* `Pull Space >> 12 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_12 .pull_1 {
+  left: -80px;
+}
+
+.container_12 .pull_2 {
+  left: -160px;
+}
+
+.container_12 .pull_4 {
+  left: -320px;
+}
+
+.container_12 .pull_5 {
+  left: -400px;
+}
+
+.container_12 .pull_7 {
+  left: -560px;
+}
+
+.container_12 .pull_8 {
+  left: -640px;
+}
+
+.container_12 .pull_10 {
+  left: -800px;
+}
+
+.container_12 .pull_11 {
+  left: -880px;
+}
+
+/* `Pull Space >> 16 Columns
+----------------------------------------------------------------------------------------------------*/
+
+.container_16 .pull_1 {
+  left: -60px;
+}
+
+.container_16 .pull_2 {
+  left: -120px;
+}
+
+.container_16 .pull_3 {
+  left: -180px;
+}
+
+.container_16 .pull_5 {
+  left: -300px;
+}
+
+.container_16 .pull_6 {
+  left: -360px;
+}
+
+.container_16 .pull_7 {
+  left: -420px;
+}
+
+.container_16 .pull_9 {
+  left: -540px;
+}
+
+.container_16 .pull_10 {
+  left: -600px;
+}
+
+.container_16 .pull_11 {
+  left: -660px;
+}
+
+.container_16 .pull_13 {
+  left: -780px;
+}
+
+.container_16 .pull_14 {
+  left: -840px;
+}
+
+.container_16 .pull_15 {
+  left: -900px;
+}
+
+/* `Clear Floated Elements
+----------------------------------------------------------------------------------------------------*/
+
+/* http://sonspring.com/journal/clearing-floats */
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+/* http://www.yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified */
+
+.clearfix:before,
+.clearfix:after,
+.container_12:before,
+.container_12:after,
+.container_16:before,
+.container_16:after {
+  content: '.';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  font-size: 0;
+  line-height: 0;
+  width: 0;
+  height: 0;
+}
+
+.clearfix:after,
+.container_12:after,
+.container_16:after {
+  clear: both;
+}
+
+/*
+  The following zoom:1 rule is specifically for IE6 + IE7.
+  Move to separate stylesheet if invalid CSS is a problem.
+*/
+
+.clearfix,
+.container_12,
+.container_16 {
+  zoom: 1;
+}
+
+
+
+/* NAVIGATION!!!!!!!!! */
+
+#nav1 a{
+	background-image:url();
+    }
+ #nav1 a:hover{
+	
+ }
+#nav2 a{
+	
+ }
+ #nav2 a:hover{
+	
+ }
+ #nav3 a{
+	
+ }
+ #nav3 a:hover{
+	
+ }
+  #nav4 a{
+	
+ }
+ #nav4 a:hover{
+	
+ }
+   #nav5 a{
+	
+ }
+ #nav5 a:hover{
+	
+ }
+    #nav6 a{
+	
+ }
+ #nav6 a:hover{
+	
+ }
+ 
+ 
+#nav1 {}
+#nav2 {}
+#nav3 {margin-left:10px;}
+#nav4 {margin-left:10px;}
+#nav5 {margin-left:35px;}
+#nav6 {margin-left:35px;}
+
+
+#navvv li {
+display:inline; float: left;}
+
+#navvv li a{ color:rgb(220,220,220);
+	text-indent:-00px;
+	height: px;
+	display:block;
+width:60px;
+list-style-type: none;
+text-decoration: none;
+}
+
+#navvv a:visited {
+color: rgb(220, 220, 220);}
+
+#navvv a:hover {
+color: rgb(0, 180, 250);}
+
+#navvv a:active{
+color: rgb(220, 220, 220);}
+
+#navvv a:{color:rgb(220,220,220);text-decoration:none;}
+
+#navvv ul {
+	list-style-type:none;
+}
+
+
+
+body {
+	
+  min-width: 960px;
+  margin: 0 0 0 0; padding: 0 0 0 0;
+}
+
+#navvv {padding-top:px;margin-left:0px;margin-top:0px;position:relative;top:-15px;left:299px;font-family:  'Carme', sans-serif;}
+
+/* NAVIGATION!!!!!!!!! */
+
+
+
+@font-face {
+    font-family: 'quadratregular';
+    src: url('quadrat_regular-webfont.eot');
+    src: url('quadrat_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quadrat_regular-webfont.woff') format('woff'),
+         url('quadrat_regular-webfont.ttf') format('truetype'),
+         url('quadrat_regular-webfont.svg#quadratregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
